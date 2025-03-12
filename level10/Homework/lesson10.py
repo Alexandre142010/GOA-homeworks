@@ -1,0 +1,11 @@
+#შექმენით ცვლადი, რომელშიც შეინხავთ input ინსტრუქციით შემოტანილ მნიშვნელობას, შემდეგ შეამოწმებთ თუ რა ტიპის მონაცემი ინახება ამ ცვლადში და დაპრინტავთ.
+Name = input("Your name: ")
+Last_name = input("Your last name: ")
+Age = input("Your age: ")
+Height = input("Your height: ")
+Your_job = input("Your job: ")
+print(type(Name))
+print(type(Last_name))
+print(type(Age))
+print(type(Height))
+print(type(Your_job))
