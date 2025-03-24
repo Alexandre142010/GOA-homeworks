@@ -1,0 +1,10 @@
+print(5>3) #True
+print(5.3<=553) #True
+print(592>=5.1) #True
+print(32.45!=56) #True
+print(852.==6838) #False
+print(45>42) #True
+print(582.2<=495) #False
+print(32>=3) #True
+print(84!=84) #False
+print(385==838) #False
