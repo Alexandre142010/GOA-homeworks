@@ -5,7 +5,6 @@ if Finisher_number < Starter_number:
 for i in range(int(Starter_number), int(Finisher_number) + 1):
     print(i)
 
-#print The sum of these numbers
 sum = 0
 for i in range(int(Starter_number), int(Finisher_number) + 1):
     sum += i
