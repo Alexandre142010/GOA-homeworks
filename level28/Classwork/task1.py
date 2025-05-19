@@ -1,0 +1,6 @@
+print("Hello".upper())
+print("Hello".lower())
+print("Hello".capitalize())
+print("AleKsaNdre".find("N"))
+print("ALesaNdre".find("a"))
+print("AleKsaNdre".find("A"))
