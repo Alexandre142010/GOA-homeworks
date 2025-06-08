@@ -1,5 +1,5 @@
-def სტრიქონი ():
-    return სტრიქონი.capitalize()
+def to_uppercase(input_string):
+    return input_string.upper()
 
 
-print(სტრიქონი())
+print(to_uppercase("Hello, World!"))
