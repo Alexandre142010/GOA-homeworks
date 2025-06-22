@@ -1,0 +1,8 @@
+p {
+    text-align: justify;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    text-shadow: 10px 2px 4px rgba(0, 0, 0, 0.5);
+}
