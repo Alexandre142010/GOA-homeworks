@@ -1,0 +1,89 @@
+#Solo {
+    color: aqua;
+    background-color: black;
+    text-decoration: dotted underline;
+}
+
+#Solo:hover {
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+}
+
+#Solo:active {
+    color: black;
+    background-color: white;
+    text-decoration: solid underline;
+}
+
+#Solo:visited {
+    color: purple;
+    background-color: pink;
+    text-decoration: wavy underline;
+}
+
+#Solo:link {
+    color: blue;
+    background-color: lightgray;
+    text-decoration: dashed underline;
+}
+
+#W3School {
+    color: green;
+    background-color: lightblue;
+    text-decoration: none;
+}
+
+#W3School:hover {
+    color: orange;
+    background-color: darkblue;
+    text-decoration: solid underline;
+}
+
+#W3School:active {
+    color: white;
+    background-color: black;
+    text-decoration: wavy underline;
+}
+
+#W3School:visited {
+    color: red;
+    background-color: yellow;
+    text-decoration: dotted underline;
+}
+
+#W3School:link {
+    color: purple;
+    background-color: lightgreen;
+    text-decoration: dashed underline;
+}
+
+#wikipedia {
+    color: navy;
+    background-color: lightcoral;
+    text-decoration: none;
+}
+
+#wikipedia:hover {
+    color: maroon;
+    background-color: lightyellow;
+    text-decoration: solid underline;
+}
+
+#wikipedia:active {
+    color: teal;
+    background-color: lightgray;
+    text-decoration: wavy underline;
+}
+
+#wikipedia:visited {
+    color: olive;
+    background-color: lightpink;
+    text-decoration: dotted underline;
+}
+
+#wikipedia:link {
+    color: darkgreen;
+    background-color: lightcyan;
+    text-decoration: dashed underline;
+}

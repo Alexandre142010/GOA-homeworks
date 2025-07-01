@@ -1,0 +1,27 @@
+a {
+    color: blue;
+}
+
+#Link1:hover {
+    color: red;
+}
+
+#Link1:active {
+    color: green;
+}
+
+#Link2:hover {
+    color: orange;
+}
+
+#Link2:active {
+    color: purple;
+}
+
+#Link3:hover {
+    color: yellow;
+}
+
+#Link3:active {
+    color: pink;
+}
