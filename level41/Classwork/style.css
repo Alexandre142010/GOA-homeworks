@@ -1,0 +1,9 @@
+.task-list {
+    list-style-position: inside;
+    list-style-type: square;
+    list-style-image: -moz-element();
+}
+
+.payment-list {
+    list-style: armenian decimal upper-alpha;
+}
