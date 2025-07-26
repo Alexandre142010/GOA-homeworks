@@ -1,0 +1,25 @@
+#Name {
+    border-radius: 8px; 
+    border: 2px solid gray;
+}
+
+#Lastname {
+    border-radius: 8px;
+    border: 2px solid gray;
+}
+
+#Password {
+    border-radius: 8px; 
+    border: 2px solid gray;
+}
+
+#Submit {
+    background-color: green; 
+    color: white; 
+    font-weight: bold; 
+}
+
+#Submit:hover {
+    background-color: darkgreen; 
+    color: white; 
+}
